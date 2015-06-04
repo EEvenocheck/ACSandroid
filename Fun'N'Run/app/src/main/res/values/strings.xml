@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Fun\'N\'Run</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="FunNRun">Fun\'N\'Run</string>
+    <string name="NewRun">New Run</string>
+    <string name="title_activity_new_run">NewRun</string>
+    <string name="Day">Day</string>
+    <string name="title_activity_history">History</string>
+    <string name="History">History</string>
+    <string name="NewRunId">Enter Run Data:</string>
+    <string name="Duration">Duration</string>
+    <string name="Distance">Distance</string>
+    <string name="Pace">Pace</string>
+    <string name="Location">Location</string>
+    <string name="Notes">Notes</string>
+    <string name="CreateRun">Create Run</string>
+    <string name="title_activity_goals">Goals</string>
+    <string name="Goals">Goals</string>
+    <string name="GoHome">GO HOME</string>
+
+
+
+</resources>
